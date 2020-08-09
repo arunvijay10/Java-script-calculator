@@ -27,3 +27,14 @@ margin-top: 101px;
     pointer-events: none;
 
 }
+.btnstyle
+{
+    width: 50px;
+height: 42px;
+padding: 7px;
+    padding-left: 7px;
+margin-left: 60px;
+margin-top: 15px;
+padding-left: 4px;
+background-color: silver;
+}
