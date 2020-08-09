@@ -4,11 +4,11 @@ body
 }
 .main
 {
-    height: 488px;
-width: 450px;
-background-color:#a37777;
-margin-left: 413px;
-margin-top: 101px;
+    height: 355px;
+    width: 38%;
+    background-color: #a37777;
+    margin-left: 413px;
+    margin-top: 101px;
 }
 .txt
 {
@@ -16,7 +16,9 @@ margin-top: 101px;
     background-color: black;
     width: 29%;
     height: 39px;
-    margin-left: 436px;
+    margin-left: 464px;
+    margin-bottom: 81px;
+
 }
 .inp
 {
