@@ -6,3 +6,6 @@ link rel="stylesheet" type="text/css" href="style.css">
 to disable screen touch
  pointer-events: none;
 -----------------------------------------------------------------------------------------------------
+  var final = eval(text)
+  eval()
+  function evaluates or executes an argument.

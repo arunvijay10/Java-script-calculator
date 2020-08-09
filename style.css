@@ -40,3 +40,18 @@ margin-top: 15px;
 padding-left: 4px;
 background-color: silver;
 }
+.footer
+{
+    background-color: yellowgreen;
+    height: 34px;
+    width: 400;
+
+}
+.year
+{
+    color: black;
+margin-left: 631px;
+margin-top: 18px;
+padding: 9px;
+height: -70px;
+}
