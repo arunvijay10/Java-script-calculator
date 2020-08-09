@@ -14,15 +14,16 @@
     <div class="main">
         <div class="cal">
             <div class="input">
-                <input class="inp" type="text">
+                <input id="inp" type="text">
                 <!-- Button -->
                 <div class="btn">
+                    <button class='btnstyle' onclick="clear()">C</button>
                     <div class="row">
                         <button class='btnstyle' onclick="action(7)">7</button>
                         <button class='btnstyle' onclick="action(8)">8</button>
                         <button class='btnstyle' onclick="action(9)">9</button>
                         <button class='btnstyle' onclick="action('+')">+</button>
-                        
+
 
 
                     </div>
@@ -42,7 +43,10 @@
                     <div class="row">
                         <button class='btnstyle' onclick="action('*')">*</button>
                         <button class='btnstyle' onclick="action(0)">0</button>
+                        <button class='btnstyle' onclick="action('.')">.</button>
                         <button class='btnstyle' onclick="action('=')">=</button>
+
+
 
                     </div>
                     <div class="row">
@@ -52,6 +56,10 @@
             </div>
         </div>
 
+    </div>
+
+    <div class="footer">
+        <p>@1995</p>
     </div>
 </body>
 

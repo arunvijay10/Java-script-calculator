@@ -4,7 +4,7 @@ body
 }
 .main
 {
-    height: 355px;
+    height: 406px;
     width: 38%;
     background-color: #a37777;
     margin-left: 413px;
@@ -20,7 +20,7 @@ body
     margin-bottom: 81px;
 
 }
-.inp
+#inp
 {
     margin-top: 28px;
     width: 321px;
