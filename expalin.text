@@ -1,0 +1,8 @@
+linking stylesheet and javascript
+
+link rel="stylesheet" type="text/css" href="style.css">
+<script src="script.js"></script>
+-----------------------------------------------------------------------------------------------------
+to disable screen touch
+ pointer-events: none;
+-----------------------------------------------------------------------------------------------------

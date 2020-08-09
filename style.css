@@ -1,0 +1,29 @@
+body
+{
+    background-color: #dacedb;
+}
+.main
+{
+    height: 488px;
+width: 450px;
+background-color:#a37777;
+margin-left: 413px;
+margin-top: 101px;
+}
+.txt
+{
+    color: chartreuse;
+    background-color: black;
+    width: 29%;
+    height: 39px;
+    margin-left: 436px;
+}
+.inp
+{
+    margin-top: 28px;
+    width: 321px;
+    margin-left: 54px;
+    height: 60px;
+    pointer-events: none;
+
+}
