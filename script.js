@@ -4,3 +4,7 @@ function action(val)
     document.getElementById('inp').value+=val
     
 }
+function swipe()
+{
+    document.getElementById("inp").value=""
+}
